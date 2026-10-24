@@ -1,0 +1,12 @@
+{
+    "formatVersion":  1,
+    "applicationId":  "app.tivihero",
+    "versionCode":  33,
+    "versionName":  "0.2.0-beta.28",
+    "minSdk":  26,
+    "apkUrl":  "https://github.com/LakisAthanasiou/tivihero-releases/releases/download/v0.2.0-beta.28/TiviHero-0.2.0-beta.28.apk",
+    "apkBytes":  19886118,
+    "apkSha256":  "3df362e9c23c39b85aa51506c5f36d67b95fb2dc714f90b5fe835afdd2a5bde8",
+    "notes":  "",
+    "publishedAt":  "2026-10-24T14:28:26.0246704+00:00"
+}
