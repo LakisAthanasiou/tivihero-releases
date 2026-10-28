@@ -1,12 +1,12 @@
 {
-  "formatVersion": 1,
-  "applicationId": "app.tivihero",
-  "versionCode": 36,
-  "versionName": "0.2.0-beta.31",
-  "minSdk": 26,
-  "apkUrl": "https://github.com/LakisAthanasiou/tivihero-releases/releases/download/v0.2.0-beta.31/TiviHero-0.2.0-beta.31.apk",
-  "apkBytes": 19907238,
-  "apkSha256": "325812f344715b454c3b9ae5511bf430762ea3ac32202723b2e446d7901b57cb",
-  "notes": "Fixes a Live TV buffering deadlock that could leave a channel frozen indefinitely. Playback resumes available buffered media when growth stalls, allowing reconnection to continue.",
-  "publishedAt": "2026-10-27T20:53:08.8509255+00:00"
+    "formatVersion":  1,
+    "applicationId":  "app.tivihero",
+    "versionCode":  38,
+    "versionName":  "0.2.0-beta.33",
+    "minSdk":  26,
+    "apkUrl":  "https://github.com/LakisAthanasiou/tivihero-releases/releases/download/v0.2.0-beta.33/TiviHero-0.2.0-beta.33.apk",
+    "apkBytes":  19907238,
+    "apkSha256":  "3bb6fbb8485dfcf2de29c4226440e86b5e06bfcc6ddddcadd4b3a82fbb8e99ec",
+    "notes":  "Fixes the update flow: Settings \u003e About keeps focus and finishes installs, updates are re-checked every 6 hours, and the prompt also shows on For You.",
+    "publishedAt":  "2026-10-28T12:18:31.4729884+00:00"
 }
