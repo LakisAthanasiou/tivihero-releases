@@ -1,12 +1,12 @@
 {
     "formatVersion":  1,
     "applicationId":  "app.tivihero",
-    "versionCode":  39,
-    "versionName":  "0.2.0-beta.34",
+    "versionCode":  40,
+    "versionName":  "0.2.0-beta.35",
     "minSdk":  26,
-    "apkUrl":  "https://github.com/LakisAthanasiou/tivihero-releases/releases/download/v0.2.0-beta.34/TiviHero-0.2.0-beta.34.apk",
-    "apkBytes":  21424894,
-    "apkSha256":  "af345d3cf0e6bc9dbd3de5e430e4408596c6ad17c31fd5b4590ea958e6e948e9",
-    "notes":  "Link TVs to tivihero.app and copy Live groups between them.",
-    "publishedAt":  "2026-10-28T17:57:46.4117265+00:00"
+    "apkUrl":  "https://github.com/LakisAthanasiou/tivihero-releases/releases/download/v0.2.0-beta.35/TiviHero-0.2.0-beta.35.apk",
+    "apkBytes":  21454270,
+    "apkSha256":  "83f93b4577eb237af43de9764388746c816a1cef7505fb920cee6efe0f0bba6c",
+    "notes":  "Richer channel banner with what\u0027s on now and next; Live preview on the right; series pages show the whole poster, more synopsis and cast; 16:9, 4:3 and 21:9 picture modes; much lighter website sync; simpler file and link screens.",
+    "publishedAt":  "2026-10-29T13:53:27.5433412+00:00"
 }
