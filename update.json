@@ -1,12 +1,12 @@
 {
     "formatVersion":  1,
     "applicationId":  "app.tivihero",
-    "versionCode":  40,
-    "versionName":  "0.2.0-beta.35",
+    "versionCode":  41,
+    "versionName":  "0.2.0-beta.36",
     "minSdk":  26,
-    "apkUrl":  "https://github.com/LakisAthanasiou/tivihero-releases/releases/download/v0.2.0-beta.35/TiviHero-0.2.0-beta.35.apk",
-    "apkBytes":  21454270,
-    "apkSha256":  "83f93b4577eb237af43de9764388746c816a1cef7505fb920cee6efe0f0bba6c",
-    "notes":  "Richer channel banner with what\u0027s on now and next; Live preview on the right; series pages show the whole poster, more synopsis and cast; 16:9, 4:3 and 21:9 picture modes; much lighter website sync; simpler file and link screens.",
-    "publishedAt":  "2026-10-29T13:53:27.5433412+00:00"
+    "apkUrl":  "https://github.com/LakisAthanasiou/tivihero-releases/releases/download/v0.2.0-beta.36/TiviHero-0.2.0-beta.36.apk",
+    "apkBytes":  21453750,
+    "apkSha256":  "262f869e618e161af799c8b1c81e4ccd642e4948a698c5e73abfbb517538461e",
+    "notes":  "Live channel list no longer waits for website sync; Back to Home focuses Home; simpler side menu.",
+    "publishedAt":  "2026-10-30T15:35:30.1985496+00:00"
 }
