@@ -1,12 +1,12 @@
 {
     "formatVersion":  1,
     "applicationId":  "app.tivihero",
-    "versionCode":  41,
-    "versionName":  "0.2.0-beta.36",
+    "versionCode":  42,
+    "versionName":  "0.2.0-beta.37",
     "minSdk":  26,
-    "apkUrl":  "https://github.com/LakisAthanasiou/tivihero-releases/releases/download/v0.2.0-beta.36/TiviHero-0.2.0-beta.36.apk",
-    "apkBytes":  21453750,
-    "apkSha256":  "262f869e618e161af799c8b1c81e4ccd642e4948a698c5e73abfbb517538461e",
-    "notes":  "Live channel list no longer waits for website sync; Back to Home focuses Home; simpler side menu.",
-    "publishedAt":  "2026-10-30T15:35:30.1985496+00:00"
+    "apkUrl":  "https://github.com/LakisAthanasiou/tivihero-releases/releases/download/v0.2.0-beta.37/TiviHero-0.2.0-beta.37.apk",
+    "apkBytes":  21945858,
+    "apkSha256":  "974e8277a54748245188305e430f01151e3b71131545864c0e9417a2e1d6e32e",
+    "notes":  "",
+    "publishedAt":  "2026-11-01T19:25:17.4735790+00:00"
 }
