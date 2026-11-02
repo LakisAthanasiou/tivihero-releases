@@ -1,12 +1,12 @@
 {
     "formatVersion":  1,
     "applicationId":  "app.tivihero",
-    "versionCode":  42,
-    "versionName":  "0.2.0-beta.37",
+    "versionCode":  44,
+    "versionName":  "0.2.0-beta.38",
     "minSdk":  26,
-    "apkUrl":  "https://github.com/LakisAthanasiou/tivihero-releases/releases/download/v0.2.0-beta.37/TiviHero-0.2.0-beta.37.apk",
-    "apkBytes":  21945858,
-    "apkSha256":  "974e8277a54748245188305e430f01151e3b71131545864c0e9417a2e1d6e32e",
+    "apkUrl":  "https://github.com/LakisAthanasiou/tivihero-releases/releases/download/v0.2.0-beta.38/TiviHero-0.2.0-beta.38.apk",
+    "apkBytes":  22345320,
+    "apkSha256":  "80217ad365e36da6b16d542814001eb46eafbb166ffce62ae8fca260ac0ecaa9",
     "notes":  "",
-    "publishedAt":  "2026-11-01T19:25:17.4735790+00:00"
+    "publishedAt":  "2026-11-02T20:56:36.6231985+00:00"
 }
