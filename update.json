@@ -1,12 +1,12 @@
 {
     "formatVersion":  1,
     "applicationId":  "app.tivihero",
-    "versionCode":  45,
-    "versionName":  "0.2.0-beta.39",
+    "versionCode":  46,
+    "versionName":  "0.2.0-beta.40",
     "minSdk":  26,
-    "apkUrl":  "https://github.com/LakisAthanasiou/tivihero-releases/releases/download/v0.2.0-beta.39/TiviHero-0.2.0-beta.39.apk",
-    "apkBytes":  22363476,
-    "apkSha256":  "232cadfbe8bfc68fc4e40ddc0ddac56886ae81181d688b03015a20f826e8e576",
-    "notes":  "",
-    "publishedAt":  "2026-11-03T21:01:11.5070849+00:00"
+    "apkUrl":  "https://github.com/LakisAthanasiou/tivihero-releases/releases/download/v0.2.0-beta.40/TiviHero-0.2.0-beta.40.apk",
+    "apkBytes":  22407120,
+    "apkSha256":  "ec134528b67e5135bc4987b225fae8df6e9d3989f89a44c52f73be06dfcf5556",
+    "notes":  "Simpler to use: Search in the menu, one Hold OK menu with Favorite first, one Home page with your things first, faster Movies and Series grids, channel numbers in Live TV, Settings in a calmer order and no purple start screen.",
+    "publishedAt":  "2026-11-05T22:12:39.5746976+00:00"
 }
