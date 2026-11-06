@@ -1,12 +1,12 @@
 {
     "formatVersion":  1,
     "applicationId":  "app.tivihero",
-    "versionCode":  47,
-    "versionName":  "0.2.0-beta.41",
+    "versionCode":  48,
+    "versionName":  "0.2.0-beta.42",
     "minSdk":  26,
-    "apkUrl":  "https://github.com/LakisAthanasiou/tivihero-releases/releases/download/v0.2.0-beta.41/TiviHero-0.2.0-beta.41.apk",
-    "apkBytes":  22423504,
-    "apkSha256":  "88fb2a07e09ba698111dac54826079dade788286bbdb363a599575a9e43c4b9a",
-    "notes":  "Groups made on tivihero.app now show for every viewer on this TV.",
-    "publishedAt":  "2026-11-06T15:19:39.4236123+00:00"
+    "apkUrl":  "https://github.com/LakisAthanasiou/tivihero-releases/releases/download/v0.2.0-beta.42/TiviHero-0.2.0-beta.42.apk",
+    "apkBytes":  22444532,
+    "apkSha256":  "f87245be2a0ee9af39d004d51967c25dab7d3337ea8f8a43b08b24ea1249a775",
+    "notes":  "",
+    "publishedAt":  "2026-11-06T20:40:58.2090143+00:00"
 }
