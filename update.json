@@ -1,12 +1,12 @@
 {
     "formatVersion":  1,
     "applicationId":  "app.tivihero",
-    "versionCode":  48,
-    "versionName":  "0.2.0-beta.42",
+    "versionCode":  49,
+    "versionName":  "0.2.0-beta.43",
     "minSdk":  26,
-    "apkUrl":  "https://github.com/LakisAthanasiou/tivihero-releases/releases/download/v0.2.0-beta.42/TiviHero-0.2.0-beta.42.apk",
-    "apkBytes":  22444532,
-    "apkSha256":  "f87245be2a0ee9af39d004d51967c25dab7d3337ea8f8a43b08b24ea1249a775",
-    "notes":  "",
-    "publishedAt":  "2026-11-06T20:40:58.2090143+00:00"
+    "apkUrl":  "https://github.com/LakisAthanasiou/tivihero-releases/releases/download/v0.2.0-beta.43/TiviHero-0.2.0-beta.43.apk",
+    "apkBytes":  22507744,
+    "apkSha256":  "3568818015c8a6e760aea360770ec2ec7bb6b93341641574c5e23f407e2f9f27",
+    "notes":  "Radio: Continue, Recently played, Browse tabs and visible favourites. Multiview shows a channel name only briefly on focus. New: set up from your phone on the Welcome screen.",
+    "publishedAt":  "2026-11-14T14:15:51.9322108+00:00"
 }
