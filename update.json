@@ -1,12 +1,12 @@
 {
     "formatVersion":  1,
     "applicationId":  "app.tivihero",
-    "versionCode":  49,
-    "versionName":  "0.2.0-beta.43",
+    "versionCode":  50,
+    "versionName":  "0.2.0-beta.44",
     "minSdk":  26,
-    "apkUrl":  "https://github.com/LakisAthanasiou/tivihero-releases/releases/download/v0.2.0-beta.43/TiviHero-0.2.0-beta.43.apk",
-    "apkBytes":  22507744,
-    "apkSha256":  "3568818015c8a6e760aea360770ec2ec7bb6b93341641574c5e23f407e2f9f27",
-    "notes":  "Radio: Continue, Recently played, Browse tabs and visible favourites. Multiview shows a channel name only briefly on focus. New: set up from your phone on the Welcome screen.",
-    "publishedAt":  "2026-11-14T14:15:51.9322108+00:00"
+    "apkUrl":  "https://github.com/LakisAthanasiou/tivihero-releases/releases/download/v0.2.0-beta.44/TiviHero-0.2.0-beta.44.apk",
+    "apkBytes":  22508460,
+    "apkSha256":  "5425d18b09ad0bcfde5b208717416b267e8516971529d101d715007c9453029e",
+    "notes":  "Live TV: buttons in the fullscreen control bar (Multiview, Audio/subtitles and others) respond to OK again. Home: the last shelf fades at the bottom edge instead of being cut above the sync line.",
+    "publishedAt":  "2026-11-14T18:52:45.9441219+00:00"
 }
