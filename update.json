@@ -1,12 +1,12 @@
 {
     "formatVersion":  1,
     "applicationId":  "app.tivihero",
-    "versionCode":  50,
-    "versionName":  "0.2.0-beta.44",
+    "versionCode":  51,
+    "versionName":  "0.2.0-beta.45",
     "minSdk":  26,
-    "apkUrl":  "https://github.com/LakisAthanasiou/tivihero-releases/releases/download/v0.2.0-beta.44/TiviHero-0.2.0-beta.44.apk",
-    "apkBytes":  22508460,
-    "apkSha256":  "5425d18b09ad0bcfde5b208717416b267e8516971529d101d715007c9453029e",
-    "notes":  "Live TV: buttons in the fullscreen control bar (Multiview, Audio/subtitles and others) respond to OK again. Home: the last shelf fades at the bottom edge instead of being cut above the sync line.",
-    "publishedAt":  "2026-11-14T18:52:45.9441219+00:00"
+    "apkUrl":  "https://github.com/LakisAthanasiou/tivihero-releases/releases/download/v0.2.0-beta.45/TiviHero-0.2.0-beta.45.apk",
+    "apkBytes":  22541232,
+    "apkSha256":  "b151cff94ccf70280416e39ab00f04a1ad115c2ee264161e86ead748a4b5103a",
+    "notes":  "",
+    "publishedAt":  "2026-11-15T15:03:48.8825328+00:00"
 }
