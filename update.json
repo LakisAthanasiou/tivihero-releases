@@ -1,12 +1,12 @@
 {
     "formatVersion":  1,
     "applicationId":  "app.tivihero",
-    "versionCode":  51,
-    "versionName":  "0.2.0-beta.45",
+    "versionCode":  52,
+    "versionName":  "0.2.0-beta.46",
     "minSdk":  26,
-    "apkUrl":  "https://github.com/LakisAthanasiou/tivihero-releases/releases/download/v0.2.0-beta.45/TiviHero-0.2.0-beta.45.apk",
-    "apkBytes":  22541232,
-    "apkSha256":  "b151cff94ccf70280416e39ab00f04a1ad115c2ee264161e86ead748a4b5103a",
-    "notes":  "",
-    "publishedAt":  "2026-11-15T15:03:48.8825328+00:00"
+    "apkUrl":  "https://github.com/LakisAthanasiou/tivihero-releases/releases/download/v0.2.0-beta.46/TiviHero-0.2.0-beta.46.apk",
+    "apkBytes":  22602472,
+    "apkSha256":  "6a71336d44024594453a6152eac3c391d0d3aaad0ce7538b1fc1e067b39668f0",
+    "notes":  "Redesigned movie, episode and Live TV control bars; Audio and subtitles side panel. New Obsidian theme.",
+    "publishedAt":  "2026-11-15T22:28:22.5239557+00:00"
 }
