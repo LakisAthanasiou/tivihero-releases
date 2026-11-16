@@ -1,12 +1,12 @@
 {
     "formatVersion":  1,
     "applicationId":  "app.tivihero",
-    "versionCode":  52,
-    "versionName":  "0.2.0-beta.46",
+    "versionCode":  53,
+    "versionName":  "0.2.0-beta.47",
     "minSdk":  26,
-    "apkUrl":  "https://github.com/LakisAthanasiou/tivihero-releases/releases/download/v0.2.0-beta.46/TiviHero-0.2.0-beta.46.apk",
-    "apkBytes":  22602472,
-    "apkSha256":  "6a71336d44024594453a6152eac3c391d0d3aaad0ce7538b1fc1e067b39668f0",
-    "notes":  "Redesigned movie, episode and Live TV control bars; Audio and subtitles side panel. New Obsidian theme.",
-    "publishedAt":  "2026-11-15T22:28:22.5239557+00:00"
+    "apkUrl":  "https://github.com/LakisAthanasiou/tivihero-releases/releases/download/v0.2.0-beta.47/TiviHero-0.2.0-beta.47.apk",
+    "apkBytes":  22674096,
+    "apkSha256":  "0bc92d48503f1af52c0e23908ee1aeaf7e400a1e542522d7153971fa04a103af",
+    "notes":  "Design your own theme (Premium): Theme Studio with 24 cinematic and earth colours, presets and background glow. Five standard themes for everyone; Ivory replaces Off-white.",
+    "publishedAt":  "2026-11-16T22:24:35.7030006+00:00"
 }
