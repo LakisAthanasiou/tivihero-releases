@@ -1,12 +1,12 @@
 {
     "formatVersion":  1,
     "applicationId":  "app.tivihero",
-    "versionCode":  53,
-    "versionName":  "0.2.0-beta.47",
+    "versionCode":  54,
+    "versionName":  "0.2.0-beta.48",
     "minSdk":  26,
-    "apkUrl":  "https://github.com/LakisAthanasiou/tivihero-releases/releases/download/v0.2.0-beta.47/TiviHero-0.2.0-beta.47.apk",
-    "apkBytes":  22674096,
-    "apkSha256":  "0bc92d48503f1af52c0e23908ee1aeaf7e400a1e542522d7153971fa04a103af",
-    "notes":  "Design your own theme (Premium): Theme Studio with 24 cinematic and earth colours, presets and background glow. Five standard themes for everyone; Ivory replaces Off-white.",
-    "publishedAt":  "2026-11-16T22:24:35.7030006+00:00"
+    "apkUrl":  "https://github.com/LakisAthanasiou/tivihero-releases/releases/download/v0.2.0-beta.48/TiviHero-0.2.0-beta.48.apk",
+    "apkBytes":  22762000,
+    "apkSha256":  "11bf322abd48b2c2b9e6ff673a7b7efc7cd547d60b616efffc9175289d80b840",
+    "notes":  "Search: type and see results at once, finds guide programmes and catch-up. Radio: a new page with your country, genres and search. Update space check.",
+    "publishedAt":  "2026-11-18T19:30:15.5306563+00:00"
 }
