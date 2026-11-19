@@ -1,12 +1,12 @@
 {
     "formatVersion":  1,
     "applicationId":  "app.tivihero",
-    "versionCode":  54,
-    "versionName":  "0.2.0-beta.48",
+    "versionCode":  55,
+    "versionName":  "0.2.0-beta.49",
     "minSdk":  26,
-    "apkUrl":  "https://github.com/LakisAthanasiou/tivihero-releases/releases/download/v0.2.0-beta.48/TiviHero-0.2.0-beta.48.apk",
-    "apkBytes":  22762000,
-    "apkSha256":  "11bf322abd48b2c2b9e6ff673a7b7efc7cd547d60b616efffc9175289d80b840",
-    "notes":  "Search: type and see results at once, finds guide programmes and catch-up. Radio: a new page with your country, genres and search. Update space check.",
-    "publishedAt":  "2026-11-18T19:30:15.5306563+00:00"
+    "apkUrl":  "https://github.com/LakisAthanasiou/tivihero-releases/releases/download/v0.2.0-beta.49/TiviHero-0.2.0-beta.49.apk",
+    "apkBytes":  22788240,
+    "apkSha256":  "70574d4404e6ae76436e0a81f2602e19849665432c5a29cf3e12b63e279a5743",
+    "notes":  "",
+    "publishedAt":  "2026-11-19T19:01:47.0542573+00:00"
 }
