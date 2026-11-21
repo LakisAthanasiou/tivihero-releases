@@ -1,12 +1,12 @@
 {
     "formatVersion":  1,
     "applicationId":  "app.tivihero",
-    "versionCode":  57,
-    "versionName":  "0.2.0-beta.51",
+    "versionCode":  58,
+    "versionName":  "0.2.0-beta.52",
     "minSdk":  26,
-    "apkUrl":  "https://github.com/LakisAthanasiou/tivihero-releases/releases/download/v0.2.0-beta.51/TiviHero-0.2.0-beta.51.apk",
-    "apkBytes":  23368269,
-    "apkSha256":  "5bc430d53416c608bd8f7c14c926abf1e902edad169ac9a7f04037b81422dd33",
-    "notes":  "",
-    "publishedAt":  "2026-11-20T22:59:20.2378865+00:00"
+    "apkUrl":  "https://github.com/LakisAthanasiou/tivihero-releases/releases/download/v0.2.0-beta.52/TiviHero-0.2.0-beta.52.apk",
+    "apkBytes":  23535785,
+    "apkSha256":  "7841a734098a1bc23afa7b4bd407935bb8833c82ef4ebf2c8d8dee04547b00a3",
+    "notes":  "TiviHero Daily: an editor that ranks the day\u0027s stories, follow topics and names, new Classic and Modern front pages, read articles on the TV, paper page-turn sound.",
+    "publishedAt":  "2026-11-21T16:22:45.0331547+00:00"
 }
