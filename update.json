@@ -1,12 +1,12 @@
 {
     "formatVersion":  1,
     "applicationId":  "app.tivihero",
-    "versionCode":  58,
-    "versionName":  "0.2.0-beta.52",
+    "versionCode":  60,
+    "versionName":  "0.2.0-beta.53",
     "minSdk":  26,
-    "apkUrl":  "https://github.com/LakisAthanasiou/tivihero-releases/releases/download/v0.2.0-beta.52/TiviHero-0.2.0-beta.52.apk",
+    "apkUrl":  "https://github.com/LakisAthanasiou/tivihero-releases/releases/download/v0.2.0-beta.53/TiviHero-0.2.0-beta.53.apk",
     "apkBytes":  23535785,
-    "apkSha256":  "7841a734098a1bc23afa7b4bd407935bb8833c82ef4ebf2c8d8dee04547b00a3",
-    "notes":  "TiviHero Daily: an editor that ranks the day\u0027s stories, follow topics and names, new Classic and Modern front pages, read articles on the TV, paper page-turn sound.",
-    "publishedAt":  "2026-11-21T16:22:45.0331547+00:00"
+    "apkSha256":  "e0008b6d9dd6dfbd9c4a6f3de093ae13f8b704f4ba2a9043ca1c3fbcb9226aec",
+    "notes":  "Catalog safety: an empty provider answer no longer empties Movies/Series; catalog jobs take turns (TCL out-of-memory fix).",
+    "publishedAt":  "2026-11-25T20:58:14.9669617+00:00"
 }
